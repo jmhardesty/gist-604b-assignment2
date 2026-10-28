@@ -6,15 +6,18 @@ QGIS Desktop GIS Projects
 Joanna Hardesty
 
 1. Overview
+
 This repository includes ten worked examples in QGIS. It shows many different forms of spatial data analysis and visualization. It includes examples that use vector and raster data, querying, joining (table and spatial), and georeferencing.
+
 2. Software Environment
 
 For these tutorials I used QGIS 3.34.11-Prizren and macOS 15.6.
 
-    1. Any plugins used (if applicable, check each tutorial)
+3. Any plugins used (if applicable, check each tutorial)
+
 None that I am aware of.
 
-2. This repository includes worked examples of the following tutorials:
+4. This repository includes worked examples of the following tutorials:
 	1. [Making a map](https://www.qgistutorials.com/en/docs/3/making_a_map.html)
     2. [Working with Projections](https://www.qgistutorials.com/en/docs/3/working_with_projections.html)
     3. [Working with Attributes](https://www.qgistutorials.com/en/docs/3/working_with_attributes.html)
@@ -25,7 +28,8 @@ None that I am aware of.
     8. [Performing Spatial Joins](https://www.qgistutorials.com/en/docs/3/performing_spatial_joins.html)
     9. [Performing Spatial Queries](https://www.qgistutorials.com/en/docs/3/performing_spatial_queries.html)
     10. [Georeferencing Aerial Imagery](https://www.qgistutorials.com/en/docs/3/advanced_georeferencing.html)
-3. QGIS skills gained:
+
+5. QGIS skills gained:
     1. Making a map through the print layout with appropriate labels
 	2. Changing CRS to alter map projection
 	3. Querying raster data
@@ -36,7 +40,8 @@ None that I am aware of.
 	8. Using spatial join to find the average rating of streets in New York City
 	9. Creating filters to exclude NaN values from calculation
 	10. Georeferencing aerial images
-4. Reflection
+
+6. Reflection
 
 I have not used QGIS in a long time, so I would say the concepts in all of the tutorials became more clear! The tutorials were very well done and I learned a lot (see the list of skills above).
 
